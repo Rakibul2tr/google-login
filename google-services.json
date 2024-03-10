@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655906528184",
+    "project_id": "signin-e84c4",
+    "storage_bucket": "signin-e84c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655906528184:android:35cc8bd7153f4486a30d4d",
+        "android_client_info": {
+          "package_name": "com.rakibul2tr.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655906528184-el4brrbhk0fasqg4490c9esj5vmg53n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakibul2tr.googlesignin",
+            "certificate_hash": "75321c92e25a5a82cc407b107337be19bb14a3f8"
+          }
+        },
+        {
+          "client_id": "655906528184-jp129jbo9suhfh661qei6su66hqgjcv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakibul2tr.googlesignin",
+            "certificate_hash": "e88314c0db16e4985b20282744c96d3ef3f7629b"
+          }
+        },
+        {
+          "client_id": "655906528184-sna2vjrvau16ujnlvgl5pv9mvcruu3pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS7CKytJeTP5OyUrGZGAJXrBV6krZc6yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655906528184-sna2vjrvau16ujnlvgl5pv9mvcruu3pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
